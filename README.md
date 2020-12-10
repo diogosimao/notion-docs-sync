@@ -1,3 +1,5 @@
+https://img.shields.io/librariesio/github/diogosimao/notion-docs-sync
+
 # Notion Documentation Sync
 
 Synchronizes documentation files to [Notion.so](https://notion.so).
