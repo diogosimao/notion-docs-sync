@@ -1,4 +1,4 @@
-https://img.shields.io/librariesio/github/diogosimao/notion-docs-sync
+![Libraries.io dependency status for GitHub repo](https://img.shields.io/librariesio/github/diogosimao/notion-docs-sync)
 
 # Notion Documentation Sync
 
